@@ -592,8 +592,8 @@ def main():
     print("CROSS-PLATFORM TIME-TO-DETECTION ANALYSIS")
     print("=" * 70)
 
-    OUTPUT_DIR = "/home/afam/Passwords/Analysis/Platform_Output"
-    DATA_PATH = "/home/afam/Passwords/Analysis/platforms.npz"
+    OUTPUT_DIR = "/home/Passwords/Analysis/Platform_Output"
+    DATA_PATH = "/home/Passwords/Analysis/platforms.npz"
 
     STAGE3_DIR = os.path.join(OUTPUT_DIR, "stage3")
     DELAY_DIR = os.path.join(STAGE3_DIR, "delay")
