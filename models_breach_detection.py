@@ -1517,8 +1517,8 @@ def main():
     # =========================
     # USER CONFIGURATION
     # =========================
-    DATA_DIR = "/home/afam/Passwords/Analysis"
-    OUT_DIR = "/home/afam/Passwords/Analysis/Detection_Output"
+    DATA_DIR = "/home/Passwords/Analysis"
+    OUT_DIR = "/home/Passwords/Analysis/Detection_Output"
 
     SETTINGS = ["cross_platform", "per_platform"]
     MODELS = ["fta_lstm", "fta_gru", "lstm", "gru", "gnn", "ifcnn_tpp", "cep3", "gcn", "gat"]
