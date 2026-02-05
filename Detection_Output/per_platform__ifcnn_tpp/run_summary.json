@@ -1,0 +1,9 @@
+{
+  "setting": "per_platform",
+  "model": "ifcnn_tpp",
+  "out_dir": "/home/afam/Passwords/Analysis/Detection_Output/per_platform__ifcnn_tpp",
+  "status": "ok",
+  "started_at": 1770242202.0314584,
+  "elapsed_sec": 26.58706569671631,
+  "metrics": null
+}
