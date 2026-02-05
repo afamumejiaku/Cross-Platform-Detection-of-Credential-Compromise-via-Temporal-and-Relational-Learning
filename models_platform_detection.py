@@ -711,8 +711,8 @@ def plot_roc_curves(y_true, y_probs, class_names, output_path):
 # =============================================================================
 
 def main():
-    OUTPUT_DIR = '/home/afam/Passwords/Analysis/Platform_Output'
-    DATA_PATH = '/home/afam/Passwords/Analysis/platforms.npz'
+    OUTPUT_DIR = '/home/Passwords/Analysis/Platform_Output'
+    DATA_PATH = '/home/Passwords/Analysis/platforms.npz'
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     X, y_platform, y_time_bucket, platform_classes = load_dataset(DATA_PATH)
