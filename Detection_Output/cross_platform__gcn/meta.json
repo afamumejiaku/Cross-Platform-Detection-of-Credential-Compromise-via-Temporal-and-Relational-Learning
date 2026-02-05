@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "feat_cols": [
+      "sim_to_prev_passwords_max",
+      "sim_to_prev_passwords_mean",
+      "exact_password_reuse",
+      "sim_to_prev_honeywords_max",
+      "sim_to_prev_honeywords_mean",
+      "honeyword_trigger",
+      "current_hw_matches_prev_pw",
+      "time_since_last_leak",
+      "time_since_last_attack",
+      "attack_sequence_index",
+      "delta_similarity",
+      "num_platforms_seen",
+      "platform_overlap_score",
+      "cross_platform_reuse"
+    ],
+    "setting": "cross_platform",
+    "platform_onehot_dim": 25,
+    "X_dim": 39
+  },
+  "node_in_dim": 39,
+  "email_count": 1724,
+  "platform_count": 25
+}
