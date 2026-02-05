@@ -1,0 +1,16 @@
+{
+  "predictions_path": "/home/afam/Passwords/Analysis/Detection_Output/per_platform__cep3/per_platform_Dubsmash/predictions_test.csv",
+  "threshold": 0.49999999999999994,
+  "time_axis": "datetime",
+  "n_rows": 67,
+  "n_positive_rows": 0,
+  "n_predicted_positive_rows": 0,
+  "n_entities_with_positive": 0,
+  "n_entities_detected": 0,
+  "detection_rate_entities": null,
+  "delay_mean": null,
+  "delay_median": null,
+  "delay_p90": null,
+  "delay_min": null,
+  "delay_max": null
+}

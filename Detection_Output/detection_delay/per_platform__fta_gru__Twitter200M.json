@@ -1,0 +1,16 @@
+{
+  "predictions_path": "/home/afam/Passwords/Analysis/Detection_Output/per_platform__fta_gru/per_platform_Twitter200M/predictions_test.csv",
+  "threshold": 0.65,
+  "time_axis": "datetime",
+  "n_rows": 268,
+  "n_positive_rows": 42,
+  "n_predicted_positive_rows": 2,
+  "n_entities_with_positive": 42,
+  "n_entities_detected": 1,
+  "detection_rate_entities": 0.023809523809523808,
+  "delay_mean": 0.0,
+  "delay_median": 0.0,
+  "delay_p90": 0.0,
+  "delay_min": 0.0,
+  "delay_max": 0.0
+}

@@ -1,0 +1,16 @@
+{
+  "predictions_path": "/home/afam/Passwords/Analysis/Detection_Output/per_platform__fta_lstm/per_platform_Luxottica/predictions_test.csv",
+  "threshold": 0.7999999999999999,
+  "time_axis": "datetime",
+  "n_rows": 126,
+  "n_positive_rows": 32,
+  "n_predicted_positive_rows": 36,
+  "n_entities_with_positive": 32,
+  "n_entities_detected": 29,
+  "detection_rate_entities": 0.90625,
+  "delay_mean": 0.0,
+  "delay_median": 0.0,
+  "delay_p90": 0.0,
+  "delay_min": 0.0,
+  "delay_max": 0.0
+}

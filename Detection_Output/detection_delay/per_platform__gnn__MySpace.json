@@ -1,0 +1,16 @@
+{
+  "predictions_path": "/home/afam/Passwords/Analysis/Detection_Output/per_platform__gnn/per_platform_MySpace/predictions_test.csv",
+  "threshold": 0.44999999999999996,
+  "time_axis": "datetime",
+  "n_rows": 22,
+  "n_positive_rows": 4,
+  "n_predicted_positive_rows": 0,
+  "n_entities_with_positive": 4,
+  "n_entities_detected": 0,
+  "detection_rate_entities": 0.0,
+  "delay_mean": null,
+  "delay_median": null,
+  "delay_p90": null,
+  "delay_min": null,
+  "delay_max": null
+}

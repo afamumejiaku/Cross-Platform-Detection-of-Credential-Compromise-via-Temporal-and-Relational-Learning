@@ -1,0 +1,16 @@
+{
+  "predictions_path": "/home/afam/Passwords/Analysis/Detection_Output/cross_platform__cep3/predictions_test.csv",
+  "threshold": 0.75,
+  "time_axis": "datetime",
+  "n_rows": 5739,
+  "n_positive_rows": 1939,
+  "n_predicted_positive_rows": 2276,
+  "n_entities_with_positive": 646,
+  "n_entities_detected": 602,
+  "detection_rate_entities": 0.9318885448916409,
+  "delay_mean": 598462.2259136213,
+  "delay_median": 0.0,
+  "delay_p90": 2236099.3,
+  "delay_min": 0.0,
+  "delay_max": 13714294.0
+}
