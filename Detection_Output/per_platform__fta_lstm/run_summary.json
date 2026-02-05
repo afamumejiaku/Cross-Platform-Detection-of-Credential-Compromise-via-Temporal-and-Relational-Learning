@@ -1,0 +1,9 @@
+{
+  "setting": "per_platform",
+  "model": "fta_lstm",
+  "out_dir": "/home/afam/Passwords/Analysis/Detection_Output/per_platform__fta_lstm",
+  "status": "ok",
+  "started_at": 1770242098.815254,
+  "elapsed_sec": 24.896172046661377,
+  "metrics": null
+}
