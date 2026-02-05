@@ -1,0 +1,9 @@
+{
+  "setting": "per_platform",
+  "model": "cep3",
+  "out_dir": "/home/afam/Passwords/Analysis/Detection_Output/per_platform__cep3",
+  "status": "ok",
+  "started_at": 1770242228.71172,
+  "elapsed_sec": 24.689066171646118,
+  "metrics": null
+}
