@@ -1,0 +1,9 @@
+{
+  "setting": "per_platform",
+  "model": "gru",
+  "out_dir": "/home/afam/Passwords/Analysis/Detection_Output/per_platform__gru",
+  "status": "ok",
+  "started_at": 1770242174.194724,
+  "elapsed_sec": 27.18999743461609,
+  "metrics": null
+}
