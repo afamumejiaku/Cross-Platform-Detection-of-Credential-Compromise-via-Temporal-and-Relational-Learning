@@ -1,0 +1,16 @@
+{
+  "predictions_path": "/home/afam/Passwords/Analysis/Detection_Output/per_platform__lstm/per_platform_AdvanceAutoParts/predictions_test.csv",
+  "threshold": 0.49999999999999994,
+  "time_axis": "datetime",
+  "n_rows": 220,
+  "n_positive_rows": 97,
+  "n_predicted_positive_rows": 56,
+  "n_entities_with_positive": 97,
+  "n_entities_detected": 3,
+  "detection_rate_entities": 0.030927835051546393,
+  "delay_mean": 0.0,
+  "delay_median": 0.0,
+  "delay_p90": 0.0,
+  "delay_min": 0.0,
+  "delay_max": 0.0
+}

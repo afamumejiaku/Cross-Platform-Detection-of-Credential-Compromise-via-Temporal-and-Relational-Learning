@@ -1,0 +1,16 @@
+{
+  "predictions_path": "/home/afam/Passwords/Analysis/Detection_Output/per_platform__lstm/per_platform_TelegramCombolists/predictions_test.csv",
+  "threshold": 0.6,
+  "time_axis": "datetime",
+  "n_rows": 353,
+  "n_positive_rows": 100,
+  "n_predicted_positive_rows": 87,
+  "n_entities_with_positive": 100,
+  "n_entities_detected": 61,
+  "detection_rate_entities": 0.61,
+  "delay_mean": 0.0,
+  "delay_median": 0.0,
+  "delay_p90": 0.0,
+  "delay_min": 0.0,
+  "delay_max": 0.0
+}
