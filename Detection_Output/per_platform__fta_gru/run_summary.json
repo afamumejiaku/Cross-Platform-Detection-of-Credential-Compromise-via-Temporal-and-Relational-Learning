@@ -1,0 +1,9 @@
+{
+  "setting": "per_platform",
+  "model": "fta_gru",
+  "out_dir": "/home/afam/Passwords/Analysis/Detection_Output/per_platform__fta_gru",
+  "status": "ok",
+  "started_at": 1770242123.797233,
+  "elapsed_sec": 24.71571969985962,
+  "metrics": null
+}
