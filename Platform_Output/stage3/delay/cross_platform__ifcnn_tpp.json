@@ -1,0 +1,13 @@
+{
+  "model": "IFCNN-TPP",
+  "setting": "cross_platform",
+  "threshold": 0.7,
+  "n_rows": 23019,
+  "n_entities_detected": 5943,
+  "n_entities_with_positive": 23019,
+  "detection_rate_entities": 0.25817802684738694,
+  "delay_mean": 11.516237590442538,
+  "delay_median": 12.0,
+  "delay_min": 1.0,
+  "delay_max": 12.0
+}

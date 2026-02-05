@@ -1,0 +1,13 @@
+{
+  "model": "CEP3",
+  "setting": "cross_platform",
+  "threshold": 0.7,
+  "n_rows": 23019,
+  "n_entities_detected": 13754,
+  "n_entities_with_positive": 23019,
+  "detection_rate_entities": 0.5975064077501194,
+  "delay_mean": 10.771557365130144,
+  "delay_median": 12.0,
+  "delay_min": 1.0,
+  "delay_max": 12.0
+}

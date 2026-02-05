@@ -1,0 +1,13 @@
+{
+  "model": "GNN",
+  "setting": "cross_platform",
+  "threshold": 0.7,
+  "n_rows": 23019,
+  "n_entities_detected": 4198,
+  "n_entities_with_positive": 23019,
+  "detection_rate_entities": 0.18237108475607108,
+  "delay_mean": 10.224630776560266,
+  "delay_median": 12.0,
+  "delay_min": 2.0,
+  "delay_max": 12.0
+}
